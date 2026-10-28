@@ -1,0 +1,9 @@
+{
+  "name": "TrendifyExpart v2",
+  "description": "A comprehensive responsive platform featuring a dual-interface system: a robust Admin Panel for ad management and client oversight, and a modern User Digital Wallet for fund management, ad posting, and multi-platform social integration.",
+  "requestFramePermissions": [
+    "clipboard-read",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
